@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:profile_app/body.dart';
 import 'package:profile_app/page.dart';
 
 void main() {
